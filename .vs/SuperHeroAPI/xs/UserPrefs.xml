@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{B187B020-F0BD-4A6D-A92D-64052ED2A016}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SuperHeroAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SuperHeroAPI/appsettings.json">
+    <Files>
+      <File FileName="SuperHeroAPI/Program.cs" />
+      <File FileName="SuperHeroAPI/Controllers/WeatherForecastController.cs" />
+      <File FileName="SuperHeroAPI/WeatherForecast.cs" />
+      <File FileName="SuperHeroAPI/Models/SuperHero.cs" />
+      <File FileName="SuperHeroAPI/Controllers/HomeController.cs" Line="16" Column="27" />
+      <File FileName="SuperHeroAPI/Controllers/SuperHeroController.cs" Line="91" Column="31" />
+      <File FileName="../ECommerceApp/ECommerceApp/Models/ErrorViewModel.cs" />
+      <File FileName="SuperHeroAPI/Data/DataContext.cs" Line="3" Column="2" />
+      <File FileName="SuperHeroAPI/appsettings.json" Line="10" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SuperHeroAPI" expanded="True">
+            <Node name="SuperHeroAPI" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="appsettings.json" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
